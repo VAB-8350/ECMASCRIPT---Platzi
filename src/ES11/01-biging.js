@@ -1,0 +1,5 @@
+const aBigNumber = 1298347921837492837492823423418237491823749128374n;
+const anotherBigNumber = BigInt(1298347921837492837492823423418237491823749128374)
+
+console.log(aBigNumber)
+console.log(anotherBigNumber)
